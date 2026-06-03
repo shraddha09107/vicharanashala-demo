@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=200&section=header&text=CrowdFAQ&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Vicharanashala%20×%20IIT%20Ropar%20Internship%20Knowledge%20Hub&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=200&section=header&text=Crowdsource&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Vicharanashala%20×%20IIT%20Ropar%20Internship%20Knowledge%20Hub&descAlignY=60&descSize=16" width="100%"/>
 
 <br/>
 
@@ -26,7 +26,7 @@
 > 300 new interns join. They all ask the same 40 questions.
 > Answers drown in Slack. WhatsApp explodes. Emails pile up.
 >
-> **CrowdFAQ fixes this** — questions asked once, answered well,
+> **Crowdsource fixes this** — questions asked once, answered well,
 > voted on, AI-moderated, and preserved forever.
 
 <br/>
